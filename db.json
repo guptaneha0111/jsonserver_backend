@@ -1,5 +1,9 @@
 {
     "employee": [
         { "id": 1, "name": "demo-1", "author": "demo author" }
+      ],
+      "user": [
+        { "id": 1, "name": "demo-1", "author": "demo author" }
       ]
+      
 }
