@@ -132,6 +132,64 @@
             "description":"Ultra-Indulgent Golden Mesh Lip Mask With Blueberry and Açaíberry Extracts",
             "price":30
          }
+      ],
+
+      "moisture":
+      [
+            {
+                  "image":"https://files.myglamm.com/site-images/800x800/17-Amla-Moisturising-Gel-Post-1-01.jpg",
+                  "title":"Manish Malhotra Amla Moisturising Gel",
+                  "description":"Gel-based Natural Moisturiser",
+                  "price":520
+               }, 
+               {
+                  "image":"https://files.myglamm.com/site-images/800x800/Blueberry---Strawberry-Face-Cream-1_1.jpg",
+                  "title":"MyGlamm SUPERFOODS Blueberry & Strawberry Face Cream",
+                  "description":"Brightening & hydrating face cream with natural extracts from natural superfoods",
+                  "price":140
+               }, 
+               {
+                  "image":"https://files.myglamm.com/site-images/800x800/Blueberry---Strawberry-Face-Cream-1_1.jpg",
+                  "title":"MyGlamm SUPERFOODS  Blueberry & Strawberry Face Cream",
+                  "description":"Brightening & hydrating face cream with natural extracts from natural superfoods",
+                  "price":299
+               }, 
+               {
+                  "image":"https://files.myglamm.com/site-images/800x800/21-Rose-Lip-Moisturising-Gel-Post-1-01.jpg",
+                  "title":"Manish Malhotra Rose Lip Moisturising Gel",
+                  "description":"Gel-based Natural Lip Treatment",
+                  "price":410
+               }, 
+               {
+                  "image":"https://files.myglamm.com/site-images/800x800/MSTCRM-(1).jpg",
+                  "title":"GLOW Iridescent Brightening Moisturising Cream",
+                  "description":"Rosehip Oil-infused Daily Moisturising Cream",
+                  "price":957
+               }, 
+               {
+                  "image":"https://files.myglamm.com/site-images/800x800/SN4.png",
+                  "title":"POPxo Sun Soother After Sun Lotion 30g",
+                  "description":"Lotion For Sun-bathers",
+                  "price":70
+               }, 
+               {
+                  "image":"https://files.myglamm.com/site-images/800x800/Moistuirising-Gel-Swatch.jpg",
+                  "title":"YOUTHfull Hydrating Moisturising Gel With Water Bank Technology",
+                  "description":"Marine Soothing & Hydrating Lightweight Gel Moisturizer ",
+                  "price":657
+               }, 
+               {
+                  "image":"https://files.myglamm.com/site-images/800x800/Moistuirising-Cream-Swatch.jpg",
+                  "title":"YOUTHfull Hydrating Moisturising Cream With Water Bank Technology",
+                  "description":"Lightweight Marine Hydrating Moisturising Cream",
+                  "price":658
+               }, 
+               {
+                  "image":"https://files.myglamm.com/site-images/800x800/SUNNN-(1).png",
+                  "title":"POPxo Sun Soother After Sun Lotion",
+                  "description":"Lotion For Sun-bathers",
+                  "price":297
+               }  
       ]
       
 }
