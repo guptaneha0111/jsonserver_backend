@@ -35,6 +35,96 @@
             "title":"GLOW Iridescent Brightening Sheet Mask",
             "description":"Rosehip Oil-infused Brightening Sheet Mask",
             "price":179
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/MMHG-(1).jpg",
+            "title":"MyGlamm MyGlamm Wipeout Germ Killing Face Wash - Lavender & Neem",
+            "description":"Lavender & Neem Infused Purifying Face Wash ",
+            "price":107
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/LLVB-(1).jpg",
+            "title":"MyGlamm Wipeout Germ Killing Face Scrub - Lavender & Neem",
+            "description":"Lavender & Neem Infused Purifying Face scrub",
+            "price":96
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/Product-shot-01_4.jpg",
+            "title":"MyGlamm 10% Niacinamide Clarifying Serum",
+            "description":"Clinically Tested, Highly Concentrated Face Serum with Niacinamide & Natural Extracts",
+            "price":559
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/17-Amla-Moisturising-Gel-Post-1-01.jpg",
+            "title":"Manish Malhotra Amla Moisturising Gel",
+            "description":"Gel-based Natural Moisturiser",
+            "price":519
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/Blueberry---Strawberry-Face-Cream-1_1.jpg",
+            "title":"MyGlamm SUPERFOODS Blueberry & Strawberry Face Cream",
+            "description":"Brightening & hydrating face cream with natural extracts from natural superfoods",
+            "price":339
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/FCCD-(1)_1.jpg",
+            "title":"MyGlamm SUPERFOODS Cacao & Berry Face Wash",
+            "description":"Nourishing & Brightening Face Cleanser",
+            "price":284
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/LP1_4.png",
+            "title":"POPxo First Kiss Lip Balm SPF 15",
+            "description":"Lip Balm For Sun Lovers",
+            "price":129
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/Eye-Cream-swatch.jpg",
+            "title":"YOUTHfull Hydrating Eye Cream With Water Bank Technology",
+            "description":"Marine Triple-Action Nourishing, Hydrating & Firming Eye Cream",
+            "price":403
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/Infinite-glow.png",
+            "title":"Manish Malhotra Infinite Glow Skincare Kit",
+            "description":"Manish Malhotra Self-Care Gift Set",
+            "price":1942
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/Glow-Kit.jpg",
+            "title":"GLOW Skincare Everyday Essentials Kit",
+            "description":"FREE Body Lotion with Cleanser, Toner & Moisturiser",
+            "price":2574
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/LIP-(1).png",
+            "title":"Manish Malhotra 4X Lip Love - Lip Masks Combo",
+            "description":"Manish Malhotra Artisanal Lip Care Set",
+            "price":239
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/SUPERSTAR-SKIN-DUO-1.jpg",
+            "title":"SUPERSTAR SKIN DUO",
+            "description":"SUPERSTAR SKIN DUO",
+            "price":925
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/Glow-S.-Korean-Brightening-Masks-Kit-9.jpg",
+            "title":"GLOW South Korean Brightening Masks Makeup Kit",
+            "description":"GLOW Sheet Mask Makeup Kit",
+            "price":239
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/SUNNN-(1).png",
+            "title":"POPxo Sun Soother After Sun Lotion",
+            "description":"Lotion For Sun-bathers",
+            "price":297
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/SCRBBM-(1).jpg",
+            "title":"MyGlamm Cacao & Berries 2-in-1 Scrub Mask with SUPERFOODS Pouch",
+            "description":"Nourishing & Brightening 2-in-1 Exfoliating Mask",
+            "price":186
          }
       ]
       
