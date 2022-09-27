@@ -79,7 +79,7 @@
             "price":129
          },
          {
-            "image":"https://files.myglamm.com/site-images/800x800/Eye-Cream-swatch.jpg",
+            "image":"https://files.myglamm.com/site-images/800x800/BBEYE-(1).jpg",
             "title":"YOUTHfull Hydrating Eye Cream With Water Bank Technology",
             "description":"Marine Triple-Action Nourishing, Hydrating & Firming Eye Cream",
             "price":403
@@ -125,6 +125,12 @@
             "title":"MyGlamm Cacao & Berries 2-in-1 Scrub Mask with SUPERFOODS Pouch",
             "description":"Nourishing & Brightening 2-in-1 Exfoliating Mask",
             "price":186
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/LIP-(3).png",
+            "title":"Manish Malhotra Hydrating Golden Lip Mask",
+            "description":"Ultra-Indulgent Golden Mesh Lip Mask With Blueberry and Açaíberry Extracts",
+            "price":30
          }
       ]
       
