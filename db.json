@@ -3,6 +3,39 @@
       "flipkart":[],
       "food":[],
       "user":[],
-      "inventory":[]
+      "inventory":[],
+      "skincare":
+      [
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/No.-1-Sheet-Mask---Open-product-final.png",
+            "title":"POPxo De-Tan Jam Instant Brightening Yoghurt Sheet Mask",
+            "description":"Sheet Mask For a Post-sun Glow Up",
+            "price":99
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/BRSGt-(1).jpg",
+            "title":"K.Play Sheet Mask",
+            "description":"Mandarin-infused Brightening Sheet Mask",
+            "price":130
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/Beach-bum-(1)_1.png",
+            "title":"POPxo Beach Bum Ultra-Light Sunscreen Spray SPF 50 PA+++ 50ml",
+            "description":"Sunscreen For Girls On The Go",
+            "price":297
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/Facewash_3.jpg",
+            "title":"WIPEOUT Germ Killing Face Wash",
+            "description":"Tea Tree Oil & Vitamin E-infused Face Wash",
+            "price":107
+         },
+         {
+            "image":"https://files.myglamm.com/site-images/800x800/1-(1)_3.jpg",
+            "title":"GLOW Iridescent Brightening Sheet Mask",
+            "description":"Rosehip Oil-infused Brightening Sheet Mask",
+            "price":179
+         }
+      ]
       
 }
